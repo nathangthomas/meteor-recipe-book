@@ -59,7 +59,7 @@ localstorage@1.2.0
 logging@1.1.20
 matb33:bootstrap-base@10.0.0
 matb33:bootstrap-glyphicons@10.0.0
-mdg:validation-error@0.2.0
+mdg:validation-error@0.5.1
 meteor@1.9.3
 meteor-base@1.4.0
 meteortoys:toykit@0.8.8
@@ -71,7 +71,7 @@ mobile-status-bar@1.1.0
 modern-browsers@0.1.5
 modules@0.15.0
 modules-runtime@0.12.0
-momentjs:moment@2.10.6
+momentjs:moment@2.24.0
 mongo@1.9.1
 mongo-decimal@0.1.1
 mongo-dev-server@1.1.0
