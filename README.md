@@ -1,7 +1,7 @@
 
 
 # Welcome to Meteor Recipe Book
-This application was created as an exercise to further explore Meteor, Blaze, and MongoDB.
+This application was created as an exercise to further explore Meteor, Blaze, and MongoDB. You can view a similar repo where I explored using Meteor with React to build a ToDo app [HERE](https://github.com/nathangthomas/meteor-todos)
 
 ## Table of Contents
 <!--ts-->
