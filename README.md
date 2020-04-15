@@ -33,7 +33,7 @@ You can also interact with a live version of Meteor Recipe Book [HERE](https://m
 - `meteor create --react new-react-app` creates a new Meteor app using React
 - `meteor` runs your local server on localhost:3000
 - `meteor remove whatever-you-want-to-remvoe`
-- `meteor remove whatever-you-want-to-add`
+- `meteor add whatever-you-want-to-add`
 - `meteor update` Update all packages
 - `meteor add react-meteor-data` Allows us to create a "data container" to feed Meteor's reactive data into React's component hierarchy
 - `meteor mongo` Opens a console into your app's local development database
