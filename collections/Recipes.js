@@ -12,7 +12,7 @@ RecipeSchema = new SimpleSchema({
   },
   author: {
     type: String,
-    label: Author,
+    label:"Author",
     autoValue: function() {
       return this.userId
     }
