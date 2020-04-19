@@ -1,5 +1,6 @@
 import { Meteor } from 'meteor/meteor';
 import '../collections/Recipes.js';
+// import '../recipes/Recipes.js';
 // import '../server/publish.js'
 
 
