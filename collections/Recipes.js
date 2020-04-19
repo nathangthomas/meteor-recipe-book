@@ -7,7 +7,6 @@ Recipes.allow({
   }
 });
 
-
 RecipeSchema = new SimpleSchema({
   name: {
     type: String,
@@ -38,5 +37,6 @@ RecipeSchema = new SimpleSchema({
     }
   }
 });
+
 
 Recipes.attachSchema( RecipeSchema );
