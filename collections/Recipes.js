@@ -7,6 +7,15 @@ Recipes.allow({
   }
 });
 
+Ingredient = new SimpleSchema({
+  name: {
+    type: String
+  },
+  ammount: {
+    type: String
+  }
+});
+
 RecipeSchema = new SimpleSchema({
   name: {
     type: String,
@@ -15,6 +24,18 @@ RecipeSchema = new SimpleSchema({
   description: {
     type: String,
     label: "Description"
+  },
+  ingredients: {
+    type: [Ingredient]
+    // putting Ingredient in square brackets allows recipe to have multiple ingredients and autoform will give incrementing boxes in the form
+  },
+  inMenu: {
+    type: Boolean,
+    defaultValue: false,
+    optional: true,
+    autoform: {
+      type: "hidden"
+    }
   },
   author: {
     type: String,
