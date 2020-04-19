@@ -1,5 +1,3 @@
-
-
 # Welcome to Meteor Recipe Book
 This application was created as an exercise to further explore Meteor, Blaze, and MongoDB. You can view a similar repo where I explored using Meteor with React to build a ToDo app [HERE](https://github.com/nathangthomas/meteor-todos)
 
@@ -37,6 +35,8 @@ You can also interact with a live version of Meteor Recipe Book [HERE](https://m
 - `meteor update` Update all packages
 - `meteor add react-meteor-data` Allows us to create a "data container" to feed Meteor's reactive data into React's component hierarchy
 - `meteor mongo` Opens a console into your app's local development database
+  - `show dbs` Displays all databases
+  -  `show collections` Collections of current db
 - `meteor add accounts-ui accounts-password` Adds packages to enable the accounts system and UI
 - `TEST_WATCH=1 meteor test --driver-package meteortesting:mocha` Run app in test mode
 - `--port XYZ` Specify alternate port
