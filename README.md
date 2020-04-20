@@ -30,6 +30,7 @@ You can also interact with a live version of Meteor Recipe Book [HERE](https://m
 - `meteor create new-app` creates a new Meteor app.
 - `meteor create --react new-react-app` creates a new Meteor app using React
 - `meteor` runs your local server on localhost:3000
+- `meteor --settings settings.json` run local server using settings.json file
 - `meteor remove whatever-you-want-to-remvoe`
 - `meteor add whatever-you-want-to-add`
 - `meteor update` Update all packages
