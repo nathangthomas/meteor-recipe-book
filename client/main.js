@@ -7,6 +7,7 @@ import './main.html';
 import '../lib/routes.js';
 import './layouts/HomeLayout.html';
 import './layouts/MainLayout.html';
+import './layouts/SideNav.html';
 import './recipes/Recipes.html';
 import './recipes/NewRecipe.html';
 // import './recipes/Recipes.js';
