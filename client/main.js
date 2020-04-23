@@ -7,9 +7,10 @@ import './main.html';
 import '../lib/routes.js';
 import './layouts/HomeLayout.html';
 import './layouts/MainLayout.html';
-import './layouts/SideNav.html';
+import './partials/SideNav.html';
 import './recipes/Recipes.html';
 import './recipes/NewRecipe.html';
+import './partials/Header.html';
 // import './recipes/Recipes.js';
 
 // import './Recipes.js';
