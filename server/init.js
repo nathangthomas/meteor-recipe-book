@@ -1,4 +1,4 @@
 
 Meteor.startup(function() {
-  console.log(Meteor.settings.public.ga.account);
+  // console.log(Meteor.settings.public.ga.account);
 });
