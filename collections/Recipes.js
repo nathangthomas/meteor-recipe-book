@@ -1,4 +1,6 @@
+import { Mongo } from 'meteor/mongo';
 Recipes = new Mongo.Collection('recipes');
+// Recipes = new Meteor.Collection('recipes');
 
 Recipes.allow({
   insert: function(userId, doc) {
