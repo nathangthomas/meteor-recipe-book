@@ -1,6 +1,7 @@
-import { Meteor } from 'meteor/meteor';
 import '../collections/Recipes.js';
 import './init.js'
+import './publish.js'
+
 
 
 Meteor.startup(() => {
