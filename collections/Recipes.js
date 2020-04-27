@@ -4,7 +4,6 @@ Recipes = new Mongo.Collection('recipes');
 
 Recipes.allow({
   insert: function(userId, doc) {
-    console.log("This is coming from insert function", userId)
     return !!userId;
     // if user id exists you can add a recipe
   }
