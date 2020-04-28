@@ -8,6 +8,7 @@ Template.RecipeSingle.onCreated(function(){
 
 Template.RecipeSingle.helpers({
   recipe: ()=> {
-    return Recipes.findOne({});
+    var id = FlowRouter.getParam('id');
+    return Recipes.findOne({_id: id});
   }
 });
