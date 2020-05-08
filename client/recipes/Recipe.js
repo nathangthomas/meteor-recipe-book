@@ -1,5 +1,5 @@
 Template.Recipe.events({
   'click .toggle-menu': function() {
-    console.log("Click")
+    Meteor.call('toggleMenuItem', this._id, this.inMenu);
   }
 });
