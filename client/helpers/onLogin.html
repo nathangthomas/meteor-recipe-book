@@ -1,0 +1,9 @@
+<template name="onLogin">
+  {{#if Meteor.userId}}
+    {{> Template.dynamic template=main}}
+  {{else}}
+    {{> Template.Recipe}}
+    <!-- When wrapping a template with this helper it renders the proper message, but not the proper Template.  -->
+    Please Log In To See This Page
+  {{/if}}
+</template>
