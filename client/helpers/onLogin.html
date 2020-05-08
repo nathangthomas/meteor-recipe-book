@@ -1,0 +1,8 @@
+<template name="onLogin">
+  {{#if Meteor.userId}}
+    {{> Template.dynamic template=main}}
+  {{else}}
+    {{> Template.Recipe}}
+    Please Log In To See This Page
+  {{/if}}
+</template>
