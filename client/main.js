@@ -16,3 +16,5 @@ import './recipes/Recipe.html';
 import './recipes/RecipeSingle.html';
 import './recipes/RecipeSingle.js';
 import './recipes/Recipe.js';
+import './Menu.html';
+import './Menu.js';
