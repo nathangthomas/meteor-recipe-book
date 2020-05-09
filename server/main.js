@@ -1,6 +1,6 @@
 import '../collections/Recipes.js';
-import './init.js'
-import './publish.js'
+import './init.js';
+import './publish.js';
 
 
 
