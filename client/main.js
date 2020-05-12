@@ -19,3 +19,4 @@ import './recipes/Recipe.js';
 import './Menu.html';
 import './Menu.js';
 import './ShoppingList.html';
+import './ShoppingList.js';
