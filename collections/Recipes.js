@@ -16,7 +16,7 @@ Ingredient = new SimpleSchema({
   name: {
     type: String
   },
-  ammount: {
+  amount: {
     type: String
   }
 });
