@@ -20,3 +20,4 @@ import './Menu.html';
 import './Menu.js';
 import './ShoppingList.html';
 import './ShoppingList.js';
+import './recipes/NewRecipe.js';
