@@ -24,7 +24,7 @@ https://github.com/nathangthomas/meteor-recipe-book
 
 ## Live App
 (This functionality is not currently set up.)
-You can also interact with a live version of Meteor Recipe Book [HERE](https://meteor--todos.herokuapp.com).
+You can also interact with a live version of Meteor Recipe Book [HERE](https://deceptively-delicious.herokuapp.com/).
 
 ## Helpful Terminal Commands:
 - `meteor create new-app` creates a new Meteor app.
