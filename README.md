@@ -41,6 +41,7 @@ You can also interact with a live version of Meteor Recipe Book [HERE](https://d
 - `meteor add accounts-ui accounts-password` Adds packages to enable the accounts system and UI
 - `TEST_WATCH=1 meteor test --driver-package meteortesting:mocha` Run app in test mode
 - `--port XYZ` Specify alternate port
+- `meteor run --production` Runs the production version of your application locally
 
 ### Running On an iOS Simulator
 - `meteor install-sdk ios` Run application inside the IOS simulator
