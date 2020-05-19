@@ -59,6 +59,7 @@ You can also interact with a live version of Meteor Recipe Book [HERE](https://m
 - [JSX](https://reactjs.org/docs/jsx-in-depth.html)
 - [React Events](https://reactjs.org/docs/events.html)
 - [Meteor's Optimistic UI - Blog Post](https://blog.meteor.com/optimistic-ui-with-meteor-67b5a78c3fcf)
+- [Deploy a Meteor Application to Heroku](https://medium.com/@leonardykris/how-to-run-a-meteor-js-application-on-heroku-in-10-steps-7aceb12de234)
 
 ## Tech Stack:
 ### This app was built with the following:
