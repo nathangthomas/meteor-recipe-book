@@ -33,7 +33,6 @@ accounts-ui
 accounts-password
 matb33:bootstrap-glyphicons
 zimme:active-route
-gwendall:auth-client-callbacks
 meteortoys:allthings
 datariot:ganalytics
 check
